@@ -1,0 +1,111 @@
+.red {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    background-color: red;
+}
+
+.black1 {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    background-color: #000;
+}
+
+.green {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: green;
+}
+
+.black2 {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    background-color: black;
+}
+
+.yellow {
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #ff0;
+}
+
+.grand {
+    position: relative;
+    width: 220px;
+    height: 220px;
+    background-color: #fadcc0;
+    margin: 40px;
+    border: 1px solid #fa983a;
+}
+
+.parent1 {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: -1px;
+    left: 90px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.parent2 {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    bottom: -1px;
+    left: -1px;
+    background-color: #d2bfd8;
+    border: 1px solid #9170a8;
+}
+
+.parent3 {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    bottom: -1px;
+    right: -1px;
+    background-color: #d2bfd8;
+    border: 1px solid #9170a8;
+}
+
+.parent4 {
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    top: 108px;
+    left: -1px;
+    background-color: #d8e6ff;
+    border: 1px solid #3671ad;
+}
+
+.child1 {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    bottom: -1px;
+    right: -1px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.child2 {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: -1px;
+    right: -1px;
+    background-color: white;
+    border: 1px solid black;
+}
